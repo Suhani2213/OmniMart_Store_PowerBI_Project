@@ -25,7 +25,7 @@ The goal was to create a dashboard for OmniMart that enables them to quickly and
 ## Output
 
 
-![Screenshot 2024-06-05 203835](https://github.com/Suhani2213/OmniMart_Store_PowerBI_Project/assets/170567230/b16e6d98-3374-4a79-9a4c-7ac90e88f5d9)
+![Screenshot 2024-06-05 210514](https://github.com/Suhani2213/OmniMart_Store_PowerBI_Project/assets/170567230/081d7953-2f5d-4f1f-ab4c-a5f9a5200852)
 
 
 
