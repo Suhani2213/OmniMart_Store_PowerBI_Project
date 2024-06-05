@@ -1,7 +1,7 @@
 
 # OmniMart PowerBI Project
 
-"Created a dynamic Power BI dashboard for the OmniMart STORE"
+"Created a dynamic PowerBI dashboard for OmniMart Store""
 
 ## Objective
 
